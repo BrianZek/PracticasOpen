@@ -1,7 +1,12 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        double precio = 200.0;
+        Scanner scanner = new Scanner(System.in);
+        int precio;
         double precioFinal;
+        System.out.println("Introduzca el precio del articulo: ");
+        precio = scanner.nextInt();
         precioFinal = precioMasIVA(precio);
         System.out.println("El precio sin IVA es de: " + precio);
         System.out.println("El precio con IVA es de: " + precioFinal);
