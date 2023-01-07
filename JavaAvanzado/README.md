@@ -9,3 +9,5 @@ Ejercicio 9: Se utiliza el archivo del Tema 7_8_9 del curso "Java Basico". Aquí
 Ejercicio 10: Se realiza un refactoring del Tema_4 del curso "Java Basico". Aquí se utiliza el patron de diseño Builder para solucionar el problema de constructores largos.
 
 Ejercico 12_13_14: Se hace buen uso en cuanto al nombre de clases, funciones y variables. Asi mismo se hace buen uso de la documentacion, comentarios y la creacion de javadoc para tener un codigo limpio.
+
+Ejercicio_15_16_17_18: Se realiza el procesamiento de errores mediante Try/Catch y con Throws.
