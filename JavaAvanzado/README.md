@@ -11,3 +11,5 @@ Ejercicio 10: Se realiza un refactoring del Tema_4 del curso "Java Basico". Aqu√
 Ejercico 12_13_14: Se hace buen uso en cuanto al nombre de clases, funciones y variables. Asi mismo se hace buen uso de la documentacion, comentarios y la creacion de javadoc para tener un codigo limpio.
 
 Ejercicio_15_16_17_18: Se realiza el procesamiento de errores mediante Try/Catch y con Throws.
+
+Ejercicio_19_20_21: Se hace uso de los argumentos de entrada "args" y se habla sobre la arquitectura limpia, los principios SOLID y las buenas practicas.
