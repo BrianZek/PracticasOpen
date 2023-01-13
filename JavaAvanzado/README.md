@@ -13,3 +13,5 @@ Ejercico 12_13_14: Se hace buen uso en cuanto al nombre de clases, funciones y v
 Ejercicio_15_16_17_18: Se realiza el procesamiento de errores mediante Try/Catch y con Throws.
 
 Ejercicio_19_20_21: Se hace uso de los argumentos de entrada "args" y se habla sobre la arquitectura limpia, los principios SOLID y las buenas practicas.
+
+Ejercicio_22_23_24: Se hace uso de los 5 principios de la arquitectura SOLID para la escritura de un codigo limpio a la hora de programar.
